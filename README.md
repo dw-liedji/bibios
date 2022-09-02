@@ -1,2 +1,2 @@
 # bibios
-Manage your LaTex bibiography for your publication 
+Manage your LaTex bibiography for your publications
